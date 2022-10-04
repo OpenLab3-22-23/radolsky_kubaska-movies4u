@@ -6,4 +6,4 @@
 <p>Movies4u je aplikácia ktorá slúži ako databáza filmov a seriálov</p>
 <p>K jednotlivým filmom a seriálom priradí linky na rôzne stránky kde si môže používateľ zhliadnuť filmy</p>
 
-<a href="(https://app.uizard.io/p/8ce93536)">Predbežný Náhľad</a>
+<a href="https://app.uizard.io/p/8ce93536">Predbežný Náhľad</a>
