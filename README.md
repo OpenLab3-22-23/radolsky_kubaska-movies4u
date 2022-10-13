@@ -13,5 +13,6 @@
 <p>Grafický dizajn, jednotlivé kartičky pre filmy , menu a základné funkcie</p>
 <hr>
 <h4>Ján Kubaška</h4>
-
+<p> Logika pre jednotlivé kartičky a funkcionalita aplikácie </p>
+<hr>
 <a href="https://app.uizard.io/p/8ce93536">Predbežný Náhľad</a>
