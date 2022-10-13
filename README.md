@@ -7,8 +7,10 @@
 <p>K jednotlivým filmom a seriálom priradí linky na rôzne stránky kde si môže používateľ zhliadnuť filmy</p>
 
 <h3>Rozdelenie práce na projekte</h3>
+<hr>
 <h4>Jakub Radolský<h4>
 <p>Grafický dizajn, jednotlivé kartičky pre filmy , menu a základné funkcie</p>
+<hr>
 <h4>Ján Kubaška</h4>
 
 <a href="https://app.uizard.io/p/8ce93536">Predbežný Náhľad</a>
