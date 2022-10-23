@@ -4,8 +4,8 @@
 <p>Ján Kubaška a Jakub Radolský</p>
 <hr>
 <h2>Čo je Movies4u?</h2>
-<p>Movies4u je aplikácia ktorá slúži ako databáza filmov a seriálov</p>
-<p>K jednotlivým filmom a seriálom priradí linky na rôzne stránky kde si môže používateľ zhliadnuť filmy</p>
+<p>Movies4u je aplikácia ktorá slúži ako databáza filmov a seriálov. Priradzuje im hodnotenia a stručný popis k filmu</p>
+
 <hr>
 <h3>Rozdelenie práce na projekte</h3>
 <hr>
