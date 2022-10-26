@@ -6,7 +6,7 @@ import './style.css'
 	const searchURL = BASE_URL + '/search/movie?'+API_KEY;
 
 	document.getElementById('app')!.innerHTML = `
-	<h1>MOVIES<span style="color:red">4</span>U</h1> 
+	<h1>MOVIES<span style="color:rgb(208, 255, 0);">4</span>U</h1> 
 
     <header>
       <form  id="form">
